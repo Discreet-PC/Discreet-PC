@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, Im Discreet, im a bit of a [Destiny Addict][website] 👋
 
-<!--
-**Discreet-PC/Discreet-PC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I live in the UK, currently doing a Level 3 IT course! 
 
-Here are some ideas to get you started:
+### You can find me here: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Discreet | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br>
+
+---
+
+<img align="left" alt="Discreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Discreet-PC&count_private=true&show_icons=true&theme=radical" />
+
+[website]: https://wastedondestiny.com/2_4611686018476764669,1_4611686018443528023
+[discord]: dsc.bio/Discreet
