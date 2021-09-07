@@ -13,4 +13,4 @@
 <img align="left" alt="Discreet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Discreet-PC&count_private=true&show_icons=true&theme=radical" />
 
 [website]: https://wastedondestiny.com/2_4611686018476764669,1_4611686018443528023
-[discord]: dsc.bio/Discreet
+[discord]: dsc.bio/discreet
