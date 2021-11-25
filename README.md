@@ -1,6 +1,7 @@
 ### Hi there, Im Discreet, im a bit of a [Destiny Addict][website] 👋
 
 ## I live in the UK, currently doing a Level 3 IT course! 
+### I am very new to coding/programming, enjoying it so far though!
 
 ### You can find me here: 
 
